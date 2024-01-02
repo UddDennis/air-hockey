@@ -1,6 +1,6 @@
 # Yo Dennis lägg till fler idéer!
 
-# 🏒 Air Hockey Idéer 🏒
+# 💡 Air Hockey Idéer 💡
 
 
 ## Poängsystem:
