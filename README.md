@@ -2,6 +2,8 @@
 
 # 💡 Air Hockey Idéer 💡
 
+## Antal spelare:
+- 2, 3 och 4 spelare:
 
 ## Poängsystem:
 - Första spelaren som når X poäng vinner.
@@ -27,6 +29,9 @@
 
 
 # 🏒 Air Hockey MVP 🏒
+
+## Antal spelare:
+- 2
 
 ## Poängsystem:
 - Första spelaren som når X poäng vinner.
