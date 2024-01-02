@@ -4,8 +4,8 @@
 
 
 ## Poängsystem:
-- Man har ett visst antal liv, och när liven når 0 åker man ut.
 - Första spelaren som når X poäng vinner.
+- Man har ett visst antal liv, och när liven når 0 åker man ut.
 
 ## Physics, Bro...:
 - Pucken bör ha en viss deceleration för att skapa en realistisk känsla av hastighetsminskning.
