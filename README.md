@@ -1,4 +1,4 @@
-# Yo Dennis lägg till fler idéer!
+# Yo Dennis lägg till fler idéer och vad MVP/Version 1.0 ska innehålla!
 
 # 💡 Air Hockey Idéer 💡
 
