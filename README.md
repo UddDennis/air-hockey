@@ -1,18 +1,22 @@
-Hej Eddie!! Nu fasen kör vi vårt game
+# 🏒 Air Hockey Idéer 🏒
 
 
-Idéer för air hockey:
+## Poängsystem:
+- Man har ett visst antal liv, och när liven når 0 åker man ut.
+- Första spelaren som når X poäng vinner.
 
-Poängsystem: 
-1. Man har X antal liv
-2. Man kör försten till X poäng
+## Physics, Bro...:
+Pucken bör ha en viss deceleration för att skapa en realistisk känsla av hastighetsminskning.
 
+## Power-ups:
+1. **Puck Modifiering:**
+   - *Snabbhet:* Möjligheten för pucken att gå snabbare eller långsammare.
+   - *Storlek:* Förändra puckens storlek för en överraskande twist.
+   - *Form på pucken????:* Förändra puckens form för en överraskande twist.
 
-Physics bro...:
-Pucken borde ha lite deceleration/fartminskning
+2. **Player Enhancements:**
+   - *Pusher Size:* Möjlighet för spelarens pusher att bli större, vilket ger en fördel.
+   
+3. **Opponent Challenges:**
+   - *Motståndarens Svårighet:* Förminskning av motståndarens pusher för att öka utmaningen.
 
-Power-ups:
-1. Pucken går snabbare/långsammare
-2. Pucken blir större/mindre
-3. Spelarens pusher/platta/slågrej blir större
-4. Motståndarnas pusher/platta/slågrej blir mindre
