@@ -1,3 +1,5 @@
+# Yo Dennis lägg till fler idéer!
+
 # 🏒 Air Hockey Idéer 🏒
 
 
@@ -6,13 +8,16 @@
 - Första spelaren som når X poäng vinner.
 
 ## Physics, Bro...:
-Pucken bör ha en viss deceleration för att skapa en realistisk känsla av hastighetsminskning.
+- Pucken bör ha en viss deceleration för att skapa en realistisk känsla av hastighetsminskning.
 
 ## Power-ups:
 1. **Puck Modifiering:**
    - *Snabbhet:* Möjligheten för pucken att gå snabbare eller långsammare.
    - *Storlek:* Förändra puckens storlek för en överraskande twist.
    - *Form på pucken????:* Förändra puckens form för en överraskande twist.
+   - *Acceleration isstället för deceleration:* Förändra puckens hastiget så pucken börjar åka långsamt men åker snabbare och snabbare.
+   - *Skruv:* Lägg till skruv på pucken.
+   - *En extra puck:* En extra puck kommer in på planen.
 
 2. **Player Enhancements:**
    - *Pusher Size:* Möjlighet för spelarens pusher att bli större, vilket ger en fördel.
@@ -20,3 +25,11 @@ Pucken bör ha en viss deceleration för att skapa en realistisk känsla av hast
 3. **Opponent Challenges:**
    - *Motståndarens Svårighet:* Förminskning av motståndarens pusher för att öka utmaningen.
 
+
+# 🏒 Air Hockey MVP 🏒
+
+## Poängsystem:
+- Första spelaren som når X poäng vinner.
+
+## Physics, Bro...:
+- Pucken bör ha en viss deceleration för att skapa en realistisk känsla av hastighetsminskning.
