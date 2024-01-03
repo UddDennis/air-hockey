@@ -27,6 +27,8 @@
 3. **Opponent Challenges:**
    - *Motståndarens Svårighet:* Förminskning av motståndarens pusher för att öka utmaningen.
 
+3. **Map Challenges:**
+   - *Banans svårighet:* En struktur på banan tillkommer för att öka utmaningen.
 
 # 🏒 Air Hockey MVP 🏒
 
